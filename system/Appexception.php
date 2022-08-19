@@ -1,6 +1,6 @@
 <?php
 
-namespace app\system;
+namespace casezor;
 
 use Exception;
 
